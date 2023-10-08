@@ -9,7 +9,7 @@ Example:
 this is a example of a readible code vs clever code that can be understaood by average develop. 
 Dutch government was forced to release the source code of their DigiD digital authentication iOS app. It is written in C# [code]( https://github.com/MinBZK/woo-besluit-broncode-digid-app/blob/ad2737c4a039d5ca76633b81e9d4f3f9370549e4/Source/DigiD.iOS/Services/NFCService.cs#L182 ) here the discussion on  [twittter](https://twitter.com/JeroenFrijters/status/1615204074588180481 )
 
-![Readibiliy](./Files/img/readibility-code.png|400)
+![Readibiliy](Files/img/readibility-code.png|400)
 
 
 ## Not hide the cost
