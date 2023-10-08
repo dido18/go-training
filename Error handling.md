@@ -1,0 +1,1 @@
+the majority of code we write is focused on failure not  in the good case
